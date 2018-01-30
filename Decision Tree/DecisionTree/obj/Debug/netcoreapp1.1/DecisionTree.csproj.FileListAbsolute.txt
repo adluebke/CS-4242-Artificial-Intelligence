@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\bin\Debug\netcoreapp1.1\DecisionTree.deps.json
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\bin\Debug\netcoreapp1.1\DecisionTree.runtimeconfig.json
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\bin\Debug\netcoreapp1.1\DecisionTree.runtimeconfig.dev.json
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\bin\Debug\netcoreapp1.1\DecisionTree.dll
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\bin\Debug\netcoreapp1.1\DecisionTree.pdb
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\obj\Debug\netcoreapp1.1\DecisionTree.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\obj\Debug\netcoreapp1.1\DecisionTree.AssemblyInfo.cs
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\obj\Debug\netcoreapp1.1\DecisionTree.dll
+c:\users\andrew\documents\visual studio 2017\Projects\DecisionTree\DecisionTree\obj\Debug\netcoreapp1.1\DecisionTree.pdb

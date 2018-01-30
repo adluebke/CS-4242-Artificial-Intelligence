@@ -1,0 +1,7 @@
+c:\users\andrew\documents\visual studio 2017\Projects\GeneticAlgorithmAssignment\GeneticAlgorithmAssignment\obj\Debug\GeneticAlgorithmAssignment.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2017\Projects\GeneticAlgorithmAssignment\GeneticAlgorithmAssignment\bin\Debug\GeneticAlgorithmAssignment.exe.config
+c:\users\andrew\documents\visual studio 2017\Projects\GeneticAlgorithmAssignment\GeneticAlgorithmAssignment\bin\Debug\GeneticAlgorithmAssignment.exe
+c:\users\andrew\documents\visual studio 2017\Projects\GeneticAlgorithmAssignment\GeneticAlgorithmAssignment\bin\Debug\GeneticAlgorithmAssignment.pdb
+c:\users\andrew\documents\visual studio 2017\Projects\GeneticAlgorithmAssignment\GeneticAlgorithmAssignment\obj\Debug\GeneticAlgorithmAssignment.exe
+c:\users\andrew\documents\visual studio 2017\Projects\GeneticAlgorithmAssignment\GeneticAlgorithmAssignment\obj\Debug\GeneticAlgorithmAssignment.pdb
+c:\users\andrew\documents\visual studio 2017\Projects\GeneticAlgorithmAssignment\GeneticAlgorithmAssignment\bin\Debug\NCalc.dll

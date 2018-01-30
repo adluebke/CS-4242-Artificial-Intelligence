@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\bin\Debug\netcoreapp1.1\ANN Project.deps.json
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\bin\Debug\netcoreapp1.1\ANN Project.runtimeconfig.json
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\bin\Debug\netcoreapp1.1\ANN Project.runtimeconfig.dev.json
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\bin\Debug\netcoreapp1.1\ANN Project.dll
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\bin\Debug\netcoreapp1.1\ANN Project.pdb
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\obj\Debug\netcoreapp1.1\ANN Project.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\obj\Debug\netcoreapp1.1\ANN Project.AssemblyInfo.cs
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\obj\Debug\netcoreapp1.1\ANN Project.dll
+c:\users\andrew\documents\visual studio 2017\Projects\ANN Project\ANN Project\obj\Debug\netcoreapp1.1\ANN Project.pdb

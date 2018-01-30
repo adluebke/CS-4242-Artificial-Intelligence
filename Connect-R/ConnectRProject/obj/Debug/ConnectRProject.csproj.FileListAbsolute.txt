@@ -1,0 +1,6 @@
+C:\Users\Andrew\documents\visual studio 2017\Projects\ConnectRProject\ConnectRProject\bin\Debug\ConnectRProject.exe.config
+C:\Users\Andrew\documents\visual studio 2017\Projects\ConnectRProject\ConnectRProject\bin\Debug\ConnectRProject.exe
+C:\Users\Andrew\documents\visual studio 2017\Projects\ConnectRProject\ConnectRProject\bin\Debug\ConnectRProject.pdb
+C:\Users\Andrew\documents\visual studio 2017\Projects\ConnectRProject\ConnectRProject\obj\Debug\ConnectRProject.exe
+C:\Users\Andrew\documents\visual studio 2017\Projects\ConnectRProject\ConnectRProject\obj\Debug\ConnectRProject.pdb
+C:\Users\Andrew\documents\visual studio 2017\Projects\ConnectRProject\ConnectRProject\obj\Debug\ConnectRProject.csprojResolveAssemblyReference.cache
